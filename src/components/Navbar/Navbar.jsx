@@ -4,7 +4,7 @@ import './Navbar.css';
 
 export default function Navbar({ cartCount }) {
   return (
-    <nav style={{ display: 'flex', gap: '1rem', padding: '1rem' }}>
+    <nav >
 
     <div className="navbar">
      

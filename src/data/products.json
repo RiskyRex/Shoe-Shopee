@@ -28,5 +28,76 @@
     "title": "Product E",
     "price": 100,
     "description": "This is Product E."
-  }
+  },
+
+  {
+        "id": 1,
+        "title": "AirFlex Running Shoes",
+        "price": 45,
+        "category": "Running",
+        "description": "Lightweight and breathable running shoes designed for daily training and long-distance comfort."
+    },
+    {
+        "id": 2,
+        "title": "StrideMax Sports Sneakers",
+        "price": 60,
+        "category": "Sports",
+        "description": "Durable sports sneakers with high-traction soles ideal for gym workouts and outdoor activities."
+    },
+    {
+        "id": 3,
+        "title": "Comfy Foam Slippers",
+        "price": 15,
+        "category": "Slippers",
+        "description": "Ultra-soft foam slippers perfect for home use and relaxed indoor comfort."
+    },
+    {
+        "id": 4,
+        "title": "Urban Casual Sneakers",
+        "price": 50,
+        "category": "Casual",
+        "description": "Stylish casual sneakers with cushioned insoles suitable for everyday wear and travel."
+    },
+    {
+        "id": 5,
+        "title": "Elegant Leather Formal Shoes",
+        "price": 80,
+        "category": "Formal",
+        "description": "Premium leather formal shoes designed for meetings, office, and special occasions."
+    },
+    {
+        "id": 6,
+        "title": "QuickDry Sports Sandals",
+        "price": 35,
+        "category": "Sandals",
+        "description": "Comfortable sports sandals with quick-dry technology for trekking and casual outings."
+    },
+    {
+        "id": 7,
+        "title": "TrailBlazer Running Shoes",
+        "price": 55,
+        "category": "Running",
+        "description": "Trail running shoes with enhanced grip and ankle support for rough terrain and outdoor trails."
+    },
+    {
+        "id": 8,
+        "title": "CloudStep Walking Shoes",
+        "price": 40,
+        "category": "Casual",
+        "description": "Walking shoes with cloud-like cushioning to reduce fatigue during long walks."
+    },
+    {
+        "id": 9,
+        "title": "SoftCushion Home Slippers",
+        "price": 12,
+        "category": "Slippers",
+        "description": "Lightweight home slippers with soft cushioning for daily home comfort."
+    },
+    {
+        "id": 10,
+        "title": "Classic Leather Loafers",
+        "price": 70,
+        "category": "Formal",
+        "description": "Classic design leather loafers perfect for office and semi-formal occasions."
+    }
 ]

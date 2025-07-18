@@ -2,6 +2,11 @@
     display: flex;
     justify-content: space-around;
     padding: 20px;
+    background-color: #1a1a1a;
+    align-items: center;
+    color: #ffffff;
+    position: sticky;
+    
     
 }
 .logo-image {

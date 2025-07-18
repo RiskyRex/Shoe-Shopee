@@ -1,5 +1,5 @@
 
-import ProductCard from '../components/ProductCard';
+import ProductCard from '../components/ProductCard/ProductCard';
 import products from '../data/products.json';
 
 export default function Home({ addToCart }) {
