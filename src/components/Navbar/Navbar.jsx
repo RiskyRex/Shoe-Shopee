@@ -3,6 +3,10 @@ import { Link } from 'react-router-dom';
 import './Navbar.css'; 
 
 export default function Navbar({ cartCount }) {
+
+
+
+
   return (
     <nav >
 
@@ -28,7 +32,6 @@ export default function Navbar({ cartCount }) {
         </div>
  
       </div>
-
     </nav>
   );
 }
